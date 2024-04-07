@@ -3,7 +3,6 @@ Title: Travel at night, Feel at ease - An investigation on the women's fear of t
 Date: 2023-07-11 00:00:00 +0800
 Categories: [Research, ]
 Tags: [wupen, competition] 
-
 ---
 
 负责人:  傅绍婷
@@ -24,3 +23,11 @@ This investigation takes women's fear of travel at night as the starting point.I
 # References
 
 [WUPEN - Travel at night, Feel at ease - An investigation on the women's fear of travel at night and its influencing factors in Shenzhen](http://www.wupen.org/competitions/67?type=work&entry=13285)
+
+---
+
+> 负责人:  傅绍婷
+> 队员:  邓泽昀, 易澍人
+> 指导老师:  边防, 周佩琳, 林姚宇
+> 学校: 哈尔滨工业大学
+> 所属竞赛: 2023 WUPENiCity 城市可持续调研报告国际竞赛

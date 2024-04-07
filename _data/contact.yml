@@ -1,8 +1,5 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
-
 # - type: twitter
 #   icon: "fa-brands fa-x-twitter"
 
@@ -18,9 +15,13 @@
   icon: 'fab fa-weixin'
   url:  "https://Zeyun-Deng.github.io/assets/zeyun-mmqrcode.png"
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+# - type: rss
+#   icon: "fas fa-rss"
+#   noblank: true
+
+- type: github
+  icon: "fab fa-github"
+
 
 # Uncomment and complete the url below to enable more contact options
 #

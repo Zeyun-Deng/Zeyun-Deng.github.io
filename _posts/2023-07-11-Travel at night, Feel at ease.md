@@ -25,6 +25,6 @@ This investigation takes women's fear of travel at night as the starting point.I
 
 > 负责人:  傅绍婷
 > 队员:  邓泽昀, 易澍人
-> 指导老师:  边防, 周佩琳, 林姚宇
+> 指导老师:  边防, 周佩玲, 林姚宇
 > 学校: 哈尔滨工业大学
 > 所属竞赛: 2023 WUPENiCity 城市可持续调研报告国际竞赛

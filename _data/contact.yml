@@ -9,7 +9,8 @@
 
 - type: qq
   icon: 'fab fa-qq'
-  url:  'https://admin.qidian.qq.com/static_proxy/b2b-qq/wpa-link/index.html#/person?uin=826785064'
+  # url:  'https://admin.qidian.qq.com/static_proxy/b2b-qq/wpa-link/index.html#/person?uin=826785064'
+  url: 'tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=826785064&website=www.oicqzone.com'
 
 - type: wechat
   icon: 'fab fa-weixin'
@@ -22,11 +23,19 @@
 - type: github
   icon: "fab fa-github"
 
+- type: bilibili
+  icon: 'fab fa-bilibili'
+  url:  "https://space.bilibili.com/34034241"
+
+- type: researchgate
+  icon: 'fab fa-researchgate'
+  url:  "https://www.researchgate.net/profile/Zeyun-Deng"
+
 
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
-#   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
+#   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/search>
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
 #
 # - type: linkedin

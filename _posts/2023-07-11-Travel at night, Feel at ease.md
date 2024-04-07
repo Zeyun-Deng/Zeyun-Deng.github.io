@@ -4,7 +4,7 @@ date: 2023-07-11 00:00:00 +0800
 categories: [Research, ]
 tags: [wupen, competition] 
 image:
-  lqip: https://jason-deng-picgo.oss-cn-guangzhou.aliyuncs.com/obsidian/202404071619374.png
+  path: https://jason-deng-picgo.oss-cn-guangzhou.aliyuncs.com/obsidian/202404071619374.png
 ---
 
 ## Introduction

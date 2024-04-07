@@ -9,7 +9,7 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Asia/Shanghai
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -19,7 +19,7 @@ title: Zeyun DENG's Homepage | 邓泽昀的主页 # the main title
 tagline: A journey combining emerging technologies into urban and rural planning # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Based on a minimal, responsive and feature-rich Jekyll theme for technical writing.
+ This Website conveys Zeyun's journey combining emerging technologies into urban and rural planning based on a minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -31,6 +31,8 @@ github:
 twitter:
   username: twitter_username # change to your twitter username
 
+logo: \assets\zeyun-deng-logo.jpg
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -38,11 +40,12 @@ social:
   email: dengzeyun@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    # - https://twitter.com/username # change to your twitter homepage
+    - https://github.com/Zeyun-Deng # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
+    - https://www.researchgate.net/profile/Zeyun-Deng
 
 google_site_verification: # fill in to your verification string
 
@@ -76,7 +79,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: \assets\zeyun-deng-logo.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

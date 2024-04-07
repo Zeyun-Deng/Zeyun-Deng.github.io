@@ -3,16 +3,25 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+# - type: twitter
+#   icon: "fa-brands fa-x-twitter"
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
+- type: qq
+  icon: 'fab fa-qq'
+  url:  'https://admin.qidian.qq.com/static_proxy/b2b-qq/wpa-link/index.html#/person?uin=826785064'
+
+- type: wechat
+  icon: 'fab fa-weixin'
+  url:  "https://Zeyun-Deng.github.io/assets/zeyun-mmqrcode.png"
+
 - type: rss
   icon: "fas fa-rss"
   noblank: true
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
@@ -26,3 +35,4 @@
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
+

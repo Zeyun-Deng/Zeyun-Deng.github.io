@@ -54,7 +54,7 @@ jobs:
         run: |
           bundle exec htmlproofer _site \
             \-\-disable-external=true \
-            \-\-ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/,/^http:\\/\\/en\\.hit\\.edu\\.cn/,/^http:\\/\\/en\\.hitsz\\.edu\\.cn/,/^http:\\/\\/www\\.wupen\\.org\\/.*\\/,/^http:\\/\\/wupen-image\\.oss-cn-shanghai\\.aliyuncs\\.com\\/.*\\/"
+            \-\-ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/,/^http:\\/\\/en\\.hit\\.edu\\.cn/,/^http:\\/\\/en\\.hitsz\\.edu\\.cn/,/^http:\\/\\/www\\.wupen\\.org\\/.*/,/^http:\\/\\/wupen-image\\.oss-cn-shanghai\\.aliyuncs\\.com\\/.*/"
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3

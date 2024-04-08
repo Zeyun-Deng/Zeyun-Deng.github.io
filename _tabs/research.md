@@ -9,7 +9,7 @@ title: Research
 
 <ul>
   {% for post in site.posts %}
-    {% if post.tags contains 'research' %}
+    {% if post.categories contains 'Research' %}
       <li>
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
         {{ post.excerpt }}

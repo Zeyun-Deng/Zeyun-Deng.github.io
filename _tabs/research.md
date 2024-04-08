@@ -5,14 +5,13 @@ order: 5
 title: Research
 ---
 
-<h1>{{ page.title }}</h1>
-
 <ul>
   {% for post in site.posts %}
     {% if post.categories contains 'Research' %}
       <li>
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        {{ post.excerpt }}
+        <!-- {{ post.excerpt }} -->
+        {{ post.image }}
       </li>
     {% endif %}
   {% endfor %}

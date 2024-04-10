@@ -16,7 +16,8 @@ title: Design
         {% endif %}
       </li> -->
         <article class="card-wrapper card">
-            <a href="/posts/{{ post.title | slugify }}" class="post-preview row g-0 flex-md-row-reverse" pcked="1">
+            <!-- <a href="/posts/{{ post.title | slugify }}" class="post-preview row g-0 flex-md-row-reverse" pcked="1"> -->
+            <a href="{{ post.url }}" class="post-preview row g-0 flex-md-row-reverse" pcked="1">
                 <div class="col-md-5">
                     <div class="preview-img">
                         <img src="{{ post.image.path }}" alt="Preview Image" loading="lazy">

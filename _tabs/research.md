@@ -10,8 +10,9 @@ title: Research
     {% if post.categories contains 'Research' %}
       <li>
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        <!-- {{ post.excerpt }} -->
-        {{ post.image }}
+        {% if post.image and post.image.path %}
+        <img src="{{ post.image.path }}" alt="{{ post.title }}">
+        {% endif %}
       </li>
     {% endif %}
   {% endfor %}

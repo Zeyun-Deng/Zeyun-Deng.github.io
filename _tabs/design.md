@@ -4,6 +4,8 @@
 icon: fas fa-info
 order: 6
 title: Design
+layout: default
+refactor: true
 ---
 
 {% include lang.html %}

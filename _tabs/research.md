@@ -1,6 +1,7 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info
+layout: research
+icon: fas fa-chalkboard-user
 order: 5
 title: Research
 ---

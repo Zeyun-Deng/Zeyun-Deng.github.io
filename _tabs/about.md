@@ -17,4 +17,4 @@ In my spare time, I enjoy creating digital artworks and leveraging my design ski
 > I look forward to sharing my research findings and innovative ideas with you. Should you have any questions or suggestions about my work, please feel free to contact me.
 {: .prompt-tip }
 
-Feel free to visit my newest progress website [USTGZ linguistic landscape](https://Zeyun-Deng.github.io/_tabs/USTGZ linguistic landscape.html)
+Feel free to visit my newest progress website [USTGZ linguistic landscape](https://Zeyun-Deng.github.io/_tabs/USTGZ linguistic landscape.html)!

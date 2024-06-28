@@ -1,0 +1,6 @@
+# This file configures HTMLProofer checks.
+
+checks:
+  # Configure the ScriptCheck to ignore empty <script> tags.
+  ScriptCheck:
+    ignore_empty_scripts: true

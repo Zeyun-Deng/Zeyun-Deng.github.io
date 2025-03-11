@@ -6,31 +6,20 @@ order: 0
 
 ### Education
 
-- [Harbin Institute of Technology](http://en.hit.edu.cn/)（[哈尔滨工业大学](https://www.hit.edu.cn/)）, China  
-    _(Aug. 2019 – Jul. 2024)_
-    
-    - **Degree**: Bachelor of Engineering in Urban and Rural Planning _(GPA: 90.59/100)_
-    - **Notable Courses**:
-        - _Computational Urban Science Theory and Method_ (93)
-        - _New Urban Science_ (98.9)
-        - _Qualitative Method in Social Studies_ (94.6)
-        - _Introductory R Programming Language_ (95)
-    - **Achievements**: National Scholarship (2021, 2023)
-- [KTH Royal Institute of Technology](https://www.kth.se/en), Sweden  
-    _(Aug. 2023 – Jan. 2024)_
-    
-    - **Exchange Program**
-    - **Key Courses**:
-        - _Remote Sensing Technology_ (Grade: A)
-        - _Artificial Intelligence_ (Grade: A)
-- [Harbin Institute of Technology, Shenzhen Campus](http://en.hitsz.edu.cn/) （[哈尔滨工业大学（深圳）](https://www.hitsz.edu.cn/index.html)）, China  
-    _(Aug. 2021 – Jul. 2022)_
-    
-    - **Exchange Program** in Urban Planning
-    - **Core Modules**:
-        - _GIS Applications_ (A+)
-        - _Urban Social Sensing Using Geo-Bigdata_ (89)
-        - _Research Methods in Social Sciences_ (97)
+- [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) （[香港科技大学（广州）](https://www.hkust-gz.edu.cn/zh/?variant=zh-cn)）, China _(Aug. 2024 - Current)_
+	- **Degree**: Master of Philosophy (MPhil) in Urban Governance and Design
+	- **Highlight**: Integrating GeoAI and computational policy analysis for responsive urban governance.
+	- **Advisor**: Prof. [Chaosu LI](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LI-Chaosu/chaosuli)
+- [Harbin Institute of Technology](http://en.hit.edu.cn/)（[哈尔滨工业大学](https://www.hit.edu.cn/)）, China _(Aug. 2019 – Jun. 2024)_
+	- **Degree**: Bachelor of Engineering in Urban and Rural Planning _(GPA: 90.59/100)_
+	- **Achievements**: National Scholarships (2021, 2023)
+- [KTH Royal Institute of Technology](https://www.kth.se/en), Sweden _(Aug. 2023 – Jan. 2024)_
+	- **Exchange Program** in the School of Architecture and the Built Environment (ABE)
+	- **Highlight**: Developed computational and analytical techniques (Artificial Intelligence, Remote Sensing, Resilient Thinking) for global urban challenges.
+- [Harbin Institute of Technology, Shenzhen Campus](http://en.hitsz.edu.cn/) （[哈尔滨工业大学（深圳）](https://www.hitsz.edu.cn/index.html)）, China _(Aug. 2021 – Jul. 2022)_
+	- **Exchange Program** in Urban Planning
+	- **Highlight**: Merging technical GIS skills with robust urban science methodologies.
+	- **Advisor**: Prof. [Yongxi GONG](https://faculty.hitsz.edu.cn/gongyongxi)
 
 ---
 

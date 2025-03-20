@@ -9,7 +9,7 @@ order: 0
 - [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) （[香港科技大学（广州）](https://www.hkust-gz.edu.cn/zh/?variant=zh-cn)）, China _(Aug. 2024 - Current)_
 	- **Degree**: Master of Philosophy (MPhil) in Urban Governance and Design
 	- **Highlight**: Integrating GeoAI and computational policy analysis for responsive urban governance.
-	- **Advisor**: Prof. [Chaosu LI](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LI-Chaosu/chaosuli)
+	- **Supervisor**: Prof. [Chaosu LI](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LI-Chaosu/chaosuli) & Prof. [Hui XIONG](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIONG-Hui/xionghui)
 - [Harbin Institute of Technology](http://en.hit.edu.cn/)（[哈尔滨工业大学](https://www.hit.edu.cn/)）, China _(Aug. 2019 – Jun. 2024)_
 	- **Degree**: Bachelor of Engineering in Urban and Rural Planning _(GPA: 90.59/100)_
 	- **Achievements**: National Scholarships (2021, 2023)

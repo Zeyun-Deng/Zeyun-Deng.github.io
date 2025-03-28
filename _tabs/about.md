@@ -4,6 +4,14 @@ icon: fas fa-info-circle
 order: 0
 ---
 
+## About Zeyun Deng
+**MPhil Candidate in Urban Governance & Design**  
+*The Hong Kong University of Science and Technology (Guangzhou)* | Urban Governance & Design Thrust, Society Hub
+
+I'm Zeyun Deng, exploring **next-generation AI for urban science** at HKUST(GZ). My current research focuses on computational policy analysis and AI-enhanced urban resilience strategies, mainly focusing on planning document intelligence with large language models(LLMs) and knowledge graphs(KGs). I also had experience in spatial computing (ArcGIS/GEE/ResNet) and AI generative urban design (Stable Diffusion/GANs).
+
+As a dual National Scholarship recipient (2021, 2023) and winner of international urban design competitions (WUPENiCITY/Yuanye Cup), I actively bridge academia and practice. My work has been presented at ACSP2024 (Association of Collegiate Schools of Planning 2024 Conference) and exhibited at the 9th Shenzhen-Hong Kong Bi-City Biennale, while also engaging the public through [Bilibili](https://space.bilibili.com/34034241) and [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5d412aec00000000110288e8). I also maintain student memberships in the Architectural Society of China and the ACM China Council SIGSPATIAL Chapter, driving innovation at the intersection of urban planning and AI.
+
 ### Education
 
 - [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) （[香港科技大学（广州）](https://www.hkust-gz.edu.cn/zh/?variant=zh-cn)）, China _(Aug. 2024 - Current)_
@@ -21,87 +29,41 @@ order: 0
 	- **Highlight**: Merging technical GIS skills with robust urban science methodologies.
 	- **Advisor**: Prof. [Yongxi GONG](https://faculty.hitsz.edu.cn/gongyongxi)
 
----
+## News
 
-### Skills
+- [2025-01] I passed PQA (Proposal Qualification Assessment) for my individual project titled *Resilient City Knowledge Graph for Comparative Analysis and Policy Making* at HKUST(GZ). The individual project is part of the redbird educational group project *Data Analytics over Multi-modal Data Lakes Using Large Language Models* with groupmates Yifan WU and Zhongtao RAO. (Project Manager: Prof. [Nan TANG](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/TANG-Nan/nantang), Project Supervisor: Dr. [Li CHEN](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/CHEN-Li/chenlimeust))
+- [2024-11] My research *Leveraging AI for assessing urban heat plans* is presented at ACSP2024 (Association of Collegiate Schools of Planning 2024 Conference), Minnesoda! (Advisor: [Prof. Chaosu LI](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LI-Chaosu/chaosuli) and [Prof. Xinyu FU](https://profiles.waikato.ac.nz/xinyu.fu))
+- [2024-08] Feel free to explore the [USTGZ Linguistic Landscape](https://Zeyun-Deng.github.io/USTGZ-linguistic-landscape.html) project integrating spatial analysis with linguistic education, led by [Prof. Claire Qingqing XING](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XING-Qingqing/claireqqxing), where I provided some technical assistance.
 
-> **Technical Expertise**
+## Honors & Awards
 
-- **Programming Languages**🐍: Python, R, JavaScript _(Advanced)_
-    - Key Applications: Spatial analysis, data visualization, natural language processing
-- **GIS Software & Toolkits**🌍:
-    - ArcGIS _(Proficient)_
-    - Google Earth Engine _(Proficient)_
-    - CityEngine, GeoDa _(Experienced)_
-- **Design & Visualization**✏️:
-    - Rhino, AutoCAD _(Advanced)_
-    - Adobe Suite _(Photoshop, Illustrator, InDesign, Premiere Pro)_
-    - Lumion _(Rendering)_
+### Fellowships
 
-> **Field Experience**
+- **National Scholarship**, Ministry of Education of China, *2023 & 2021*
+- **Renmin Scholarship**, Harbin Institute of Technology, *2023, 2022, 2021 & 2020*
 
-- Comprehensive fieldwork skills, including:
-    - **Survey Design & Implementation**
-    - **Participant Observation & Semi-structured Interviews**
-    - **Geo-database Management & Mapping**
+### Grants
 
-> **Languages**
+- **Innovative Training Project Fund**, Harbin Institute of Technology (CNY ¥15,000), *2020-2022*
+- **Excellent Career Planning Fund**, Harbin Institute of Technology (CNY ¥2,500), *2022*
+- **Social Work Fund (Key Program)**, Harbin Institute of Technology (CNY ¥2,500), *2021*
+- **Social Work Fund for Outstanding College Students**, Committee of the Youth League of Renhua County (CNY ¥600), *2021*
+- **Freshman Annual Project Fund**, Harbin Institute of Technology (CNY ¥1,000), *2019-2020*
 
-- **English**: IELTS (7)
-- **Chinese**: Native Speaker (Mandarin, Hakka, Cantonese)
+### Awards
 
-### Awards & Honors 🏆
-
-- **Scholarships & Fellowships**
-	- 🏅 National Scholarship, Ministry of Education of China (2021, 2023)
-	- 🥇 Renmin Scholarship, Harbin Institute of Technology (2020–2023)
-	- Academic Excellence
-	- 🏆 Merit Graduate Student, Harbin Institute of Technology (2024)
-	- 🥈 Merit Student, Heilongjiang Province Ministry of Education (2023)
-- **Competitions**
-	- 🥇 Yuanye Cup International Competition: 2nd Prize (2023)
-	- 🥈 WUPENICITY Urban Design Competition: 2nd Prize (2023)
-	- 🥉 China Creative Challenges Contest: 1st Prize (2022)
-	- 💡 ESRI GIS Software Development Competition: Award of Excellence (2022)
-	- 🏅 National University Student Soundscape Design Competition: 3rd Prize (2022)
-	- 🥇 Heilongjiang Province College Advertising Design Competition: Award of Excellence (2020)
-- **Innovation Programs**
-	- 💡 Undergraduate Training Programs for Innovation & Entrepreneurship: 2nd Prize (2022)
-
-### Research Interests 🔍
-
-#### Primary Areas
-
-- **Spatial-temporal Data Visualization 🗺️**  
-    _Featured Project_:
-    
-    - **"Urban Growth Explorer"**: A Python-based dashboard that visualizes city expansion using satellite imagery.
-- **Urban History 🕰️**  
-    _Featured Project_:
-    
-    - **"Historical Urban Morphology"**: Analyzed the evolution of ancient Chinese cities and its influence on modern zoning laws.
-- **Emerging Technologies in Urban Planning 🤖**  
-    _Featured Project_:
-    
-    - **"AI-Powered Urban Design"**: Applied machine learning algorithms to optimize land-use allocation in high-density areas.
-
-#### Specialized Themes
-
-- **Urban Governance & Smart Cities 🌆**  
-    _Featured Project_:
-    
-    - **"Smart Resource Allocation"**: Designed a GIS-based system to optimize water and energy distribution in Shenzhen.
-- **Social Sensing & NLP 🧠**  
-    _Featured Project_:
-    
-    - **"Policy Extraction for Urban Heat Resilience"**: Automated the identification of heat adaptation strategies in urban planning documents using natural language processing.
+- **Merit Graduate Student**, Harbin Institute of Technology, *2024*
+- **Merit Student**, Ministry of Education of Heilongjiang Province, *2023*
+- **2nd Prize**, The 14th Yuanye Cup International Competition, *2023*
+- **2nd Prize**, WUPENiCITY 2023 Competition on Student Course Works of Urban Design, *2023*
+- **Nomination Prize**, WUPENiCITY 2023 Competition on Urban Sustainability Research Reports, *2023*
+- **2nd Prize**, Undergraduate Training Programs for Innovation & Entrepreneurship, *2022*
+- **3rd Prize**, National University Student Soundscape Design Competition, *2022*
+- **Award of Excellence**, ESRI China University Student GIS Software Development Competition, *2022*
+- **1st Prize**, China Creative Challenges Contest, *2022*
+- **Merit Student**, Harbin Institute of Technology, *2023, 2022, 2021 & 2020*
+- **1st Prize**, Freshman Yearly Project of Harbin Institute of Technology, *2020*
 
 
-> I look forward to sharing my research findings and innovative ideas with you. Should you have any questions or suggestions about my work, please feel free to contact me.
+> In my spare time, I enjoy creating digital artworks and leveraging my design skills in urban planning projects. I also relish outdoor activities such as hiking and urban exploration, which not only allow me to appreciate the beauty of natural and built environments but also provide inspiration for my urban planning projects.
 {: .prompt-tip }
-
-Throughout my academic career, I have been honored with several scholarships and awards, including **the National Scholarship** from the Ministry of Education of China, and the **Merit Student** award from the Ministry of Education of Heilongjiang Province. I am also a student member of **the Architectural Society of China** （[中国建筑学会](https://www.chinaasc.org.cn/)） and **the ACM China Council SIGSPATIAL Chapter**.
-
-In my spare time, I enjoy creating digital artworks and leveraging my design skills in urban planning projects. I also relish outdoor activities such as hiking and urban exploration, which not only allow me to appreciate the beauty of natural and built environments but also provide inspiration for my urban planning projects.
-
-Feel free to visit my newest progress website [USTGZ linguistic landscape](https://Zeyun-Deng.github.io/USTGZ-linguistic-landscape.html)!

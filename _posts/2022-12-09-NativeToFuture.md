@@ -30,7 +30,7 @@ The project "Wisdom Birth · Understanding of the Dan People - Wangyu Fishing Vi
 ![双年展画册A4视觉版_页面_4](https://Zeyun-Deng.github.io/assets/img/NativeToFuture/双年展画册-A4视觉版_页面_4.jpg)
 ![双年展画册A4视觉版_页面_5](https://Zeyun-Deng.github.io/assets/img/NativeToFuture/双年展画册-A4视觉版_页面_5.jpg)
 ![双年展画册A4视觉版_页面_1](https://Zeyun-Deng.github.io/assets/img/NativeToFuture/双年展画册-A4视觉版_页面_1.jpg)
-![网展用图1](https://Zeyun-Deng.github.io/assets/img/NativeToFuture/网展用图1.jpg")
+![网展用图1](https://Zeyun-Deng.github.io/assets/img/NativeToFuture/网展用图1.jpg)
 
 ## 项目信息
 

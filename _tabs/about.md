@@ -4,11 +4,13 @@ icon: fas fa-info-circle
 order: 0
 ---
 
-**MPhil Candidate in Urban Governance & Design** | *The Hong Kong University of Science and Technology (Guangzhou)*
+**MPhil Candidate in Urban Governance & Design**, *The Hong Kong University of Science and Technology (Guangzhou)*
 
 I'm Zeyun Deng, exploring **next-generation AI for urban science** at HKUST(GZ). My current research focuses on computational policy analysis and AI-enhanced urban resilience strategies, mainly focusing on planning document intelligence with large language models(LLMs) and knowledge graphs(KGs). I also had experience in spatial computing (ArcGIS/GEE/ResNet) and AI generative urban design (Stable Diffusion/GANs).
 
 As a dual National Scholarship recipient (2021, 2023) and winner of international urban design competitions (WUPENiCITY/Yuanye Cup), I actively bridge academia and practice. My work has been presented at ACSP2024 (Association of Collegiate Schools of Planning 2024 Conference) and exhibited at the 9th Shenzhen-Hong Kong Bi-City Biennale, while also engaging the public through [Bilibili](https://space.bilibili.com/34034241) and [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5d412aec00000000110288e8). I also maintain student memberships in the Architectural Society of China and the ACM China Council SIGSPATIAL Chapter, driving innovation at the intersection of urban planning and AI.
+
+**Back to [Home Page](https://zeyun-deng.github.io/) for more infromation!**
 
 ## Education
 

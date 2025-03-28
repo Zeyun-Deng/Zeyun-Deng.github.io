@@ -55,16 +55,15 @@ As a dual National Scholarship recipient (2021, 2023) and winner of internationa
 
 - **Merit Graduate Student**, Harbin Institute of Technology, *2024*
 - **Merit Student**, Ministry of Education of Heilongjiang Province, *2023*
-- **2nd Prize**, The 14th Yuanye Cup International Competition, *2023*
-- **2nd Prize**, WUPENiCITY 2023 Competition on Student Course Works of Urban Design, *2023*
-- **Nomination Prize**, WUPENiCITY 2023 Competition on Urban Sustainability Research Reports, *2023*
+- **2nd Prize**, [The 14th Yuanye Cup International Competition](https://zeyun-deng.github.io/posts/NativeToFuture/), *2023*
+- **2nd Prize**, [WUPENiCITY 2023 Competition on Student Course Works of Urban Design](https://zeyun-deng.github.io/posts/Canal-ABC/), *2023*
+- **Nomination Prize**, [WUPENiCITY 2023 Competition on Urban Sustainability Research Reports](https://zeyun-deng.github.io/posts/Travel-at-night,-Feel-at-ease/), *2023*
 - **2nd Prize**, Undergraduate Training Programs for Innovation & Entrepreneurship, *2022*
 - **3rd Prize**, National University Student Soundscape Design Competition, *2022*
 - **Award of Excellence**, ESRI China University Student GIS Software Development Competition, *2022*
 - **1st Prize**, China Creative Challenges Contest, *2022*
 - **Merit Student**, Harbin Institute of Technology, *2023, 2022, 2021 & 2020*
 - **1st Prize**, Freshman Yearly Project of Harbin Institute of Technology, *2020*
-
 
 > In my spare time, I enjoy creating digital artworks and leveraging my design skills in urban planning projects. I also relish outdoor activities such as hiking and urban exploration, which not only allow me to appreciate the beauty of natural and built environments but also provide inspiration for my urban planning projects.
 {: .prompt-tip }

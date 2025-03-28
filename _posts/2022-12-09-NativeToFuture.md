@@ -1,5 +1,5 @@
 ---
-title: Native To Future: Design for Smart Seaside Village | 海洋传统村落旺渔村智慧乡村规划设计
+title: Native To Future - Smart Seaside Village Planning | 海洋传统村落旺渔村智慧乡村规划设计
 date: 2022-12-10 19:00:00 +0800
 categories: [Design, Urban Design]
 tags: [competition] 
@@ -21,16 +21,16 @@ The project "Wisdom Birth · Understanding of the Dan People - Wangyu Fishing Vi
 - 🎨在第九届深港城市 / 建筑双年展（深圳）中展出！
 - ✨来自哈尔滨工业大学（深圳）与哈尔滨工业大学的团队共同呈现这一精彩乡村规划方案。
 
-## 项目展览
+## 项目概览
 
-[双年展展板A0_页面_1](https://Zeyun-Deng.github.io/assets/img/NativeToFuture/双年展_展板A0_页面_1.bak.jpg)
-[双年展展板A0_页面_2](https://Zeyun-Deng.github.io/assets/img/NativeToFuture/双年展_展板A0_页面_2.bak.jpg)
-[双年展画册A4视觉版_页面_2](https://Zeyun-Deng.github.io/assets/img/NativeToFuture/双年展画册-A4视觉版_页面_2.jpg)
-[双年展画册A4视觉版_页面_3](https://Zeyun-Deng.github.io/assets/img/NativeToFuture/双年展画册-A4视觉版_页面_3.jpg)
-[双年展画册A4视觉版_页面_4](https://Zeyun-Deng.github.io/assets/img/NativeToFuture/双年展画册-A4视觉版_页面_4.jpg)
-[双年展画册A4视觉版_页面_5](https://Zeyun-Deng.github.io/assets/img/NativeToFuture/双年展画册-A4视觉版_页面_5.jpg)
-[双年展画册A4视觉版_页面_1](https://Zeyun-Deng.github.io/assets/img/NativeToFuture/双年展画册-A4视觉版_页面_1.jpg)
-[网展用图1](https://Zeyun-Deng.github.io/assets/img/NativeToFuture/网展用图1.jpg")
+![双年展展板A0_页面_1](https://Zeyun-Deng.github.io/assets/img/NativeToFuture/双年展_展板A0_页面_1.bak.jpg)
+![双年展展板A0_页面_2](https://Zeyun-Deng.github.io/assets/img/NativeToFuture/双年展_展板A0_页面_2.bak.jpg)
+![双年展画册A4视觉版_页面_2](https://Zeyun-Deng.github.io/assets/img/NativeToFuture/双年展画册-A4视觉版_页面_2.jpg)
+![双年展画册A4视觉版_页面_3](https://Zeyun-Deng.github.io/assets/img/NativeToFuture/双年展画册-A4视觉版_页面_3.jpg)
+![双年展画册A4视觉版_页面_4](https://Zeyun-Deng.github.io/assets/img/NativeToFuture/双年展画册-A4视觉版_页面_4.jpg)
+![双年展画册A4视觉版_页面_5](https://Zeyun-Deng.github.io/assets/img/NativeToFuture/双年展画册-A4视觉版_页面_5.jpg)
+![双年展画册A4视觉版_页面_1](https://Zeyun-Deng.github.io/assets/img/NativeToFuture/双年展画册-A4视觉版_页面_1.jpg)
+![网展用图1](https://Zeyun-Deng.github.io/assets/img/NativeToFuture/网展用图1.jpg")
 
 ## 项目信息
 

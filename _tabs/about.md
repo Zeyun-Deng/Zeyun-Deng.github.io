@@ -37,6 +37,33 @@ As a dual National Scholarship recipient (2021, 2023) and winner of internationa
 - [2024-11] My research *Leveraging AI for assessing urban heat plans* is presented at ACSP2024 (Association of Collegiate Schools of Planning 2024 Conference), Minnesoda! (Advisor: [Prof. Chaosu LI](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LI-Chaosu/chaosuli) and [Prof. Xinyu FU](https://profiles.waikato.ac.nz/xinyu.fu))
 - [2024-08] Feel free to explore the [USTGZ Linguistic Landscape](https://Zeyun-Deng.github.io/USTGZ-linguistic-landscape.html) project integrating spatial analysis with linguistic education, led by [Prof. Claire Qingqing XING](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XING-Qingqing/claireqqxing), where I provided some technical assistance.
 
+  <!-- =================================================================== -->
+  <!-- ================  在这里粘贴你的个人介绍卡片代码  ================= -->
+  <!-- =================================================================== -->
+  <article id="intro-card" class="card-wrapper card mb-4">  <!--  <-- 看这里！添加了 id -->
+    <a href="{{ '/about/' | relative_url }}" class="post-preview row g-0 flex-md-row-reverse">
+      <div class="col-md-12">
+        <div class="card-body d-flex flex-column">
+          <h1 class="card-title my-2 mt-md-0">Back to Home Page for more blogs👋</h1>
+          <div class="card-text content mt-0 mb-3">
+            <p>
+				Curious? Click to learn more about my research, design, and journey.
+            </p>
+          </div>
+          <div class="post-meta flex-grow-1 d-flex align-items-end">
+            <div class="me-auto">
+              <i class="fas fa-user fa-fw me-1"></i> About Me
+            </div>
+          </div>
+        </div>
+      </div>
+    </a>
+  </article>
+  <!-- =================================================================== -->
+  <!-- =======================  个人介绍卡片代码结束  ====================== -->
+  <!-- =================================================================== -->
+
+
 ## Honors & Awards
 
 ### Fellowships

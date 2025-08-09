@@ -6,11 +6,9 @@ order: 0
 
 **MPhil Candidate in Urban Governance & Design**, *The Hong Kong University of Science and Technology (Guangzhou)*
 
-I'm Zeyun Deng, exploring **next-generation AI for urban science** at HKUST(GZ). My current research focuses on computational policy analysis and AI-enhanced urban resilience strategies, mainly focusing on planning document intelligence with large language models(LLMs) and knowledge graphs(KGs). I also had experience in spatial computing (ArcGIS/GEE) and AI generative urban design (Stable Diffusion/GANs).
+I'm Zeyun Deng, exploring **next-generation AI for urban science** at HKUST(GZ). My current research focuses on computational policy analysis and AI-enhanced urban resilience strategies, mainly focusing on the application of large language models(LLMs) and knowledge graphs(KGs). I also had experience in spatial computing (ArcGIS/GEE) and AI generative urban design (Stable Diffusion/GANs).
 
 As a dual National Scholarship recipient (2021, 2023) and winner of international urban design competitions (WUPENiCITY/Yuanye Cup), I actively bridge academia and practice. My work has been presented at ACSP2024 (Association of Collegiate Schools of Planning 2024 Conference) and exhibited at the 9th Shenzhen-Hong Kong Bi-City Biennale, while also engaging the public through [Bilibili](https://space.bilibili.com/34034241) and [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5d412aec00000000110288e8). I also maintain student memberships in the Architectural Society of China and the ACM China Council SIGSPATIAL Chapter, driving innovation at the intersection of urban planning and AI.
-
-**Back to [Home Page](https://zeyun-deng.github.io/) for more infromation!**
 
 ## Education
 
@@ -26,43 +24,19 @@ As a dual National Scholarship recipient (2021, 2023) and winner of internationa
 	- **Highlight**: Developed computational and analytical techniques (Artificial Intelligence, Remote Sensing, Resilient Thinking) for global urban challenges.
 - [Harbin Institute of Technology, Shenzhen Campus](http://en.hitsz.edu.cn/) （[哈尔滨工业大学（深圳）](https://www.hitsz.edu.cn/index.html)）, China _(Aug. 2021 – Jul. 2022)_
 	- **Exchange Program** in Urban Planning
-	- **Highlight**: Merging technical GIS skills with robust urban science methodologies.
+	- **Highlight**: Merging technical GIS skills with social sensing.
 	- **Advisor**: Prof. [Yongxi GONG](https://faculty.hitsz.edu.cn/gongyongxi)
 
 ## News
 
+> **Back to [Home Page](https://zeyun-deng.github.io/) for more infromation about my projects, research and design!**
+{: .prompt-tip }
+
 - [2025-07] I have the opportunity to share my research **Leveraging knowledge graph for assessing resilience plans** in the 19th IACP ([International Association for China Planning](https://www.china-planning.org/alpha/annual-conference/)) held at [Xiamen University - 厦门大学](https://www.xmu.edu.cn/index.htm).
 - [2025-01] I passed PQA (Proposal Qualification Assessment) for my individual project titled *Resilient City Knowledge Graph for Comparative Analysis and Policy Making* at HKUST(GZ). The individual project is part of the red bird educational group project *Data Analytics over Multi-modal Data Lakes Using Large Language Models* with groupmates Yifan WU and Zhongtao RAO. (Project Manager: Prof. [Nan TANG](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/TANG-Nan/nantang), Project Supervisor: Dr. [Li CHEN](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/CHEN-Li/chenlimeust))
-- [2024-12] My project [Verdant Exchange](https://zeyun-deng.github.io/posts/VerdantExchange/), aiming at transformming the *Red Bird Makerspace* into a green paradise, its construction has already been completed on the 5th floor of W1 Building in HKUST(GZ). Thanks for my teammates Miaowei XI (MPhil Student in Intelligent Transporation) and Nan SU (MPhil Student in Innovation, Public Policy and Entrepreneurship), as well as the manager of makerspace Shuyi Zhao!
+- [2024-12] My project [Verdant Exchange](https://zeyun-deng.github.io/posts/VerdantExchange/), aiming at transformming the *Red Bird Makerspace* into a green paradise, its construction has already been completed on the 5th floor of W1 Building in HKUST(GZ). Thanks for my teammates Miaowei XI (MPhil Student in Intelligent Transporation) and Nan SU (MPhil Student in Innovation, Public Policy and Entrepreneurship), as well as the manager of makerspace Shuyi ZHAO!
 - [2024-11] My research *Leveraging AI for assessing urban heat plans* is presented at ACSP2024 (Association of Collegiate Schools of Planning 2024 Conference), Minnesoda! (Advisor: [Prof. Chaosu LI](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LI-Chaosu/chaosuli) and [Prof. Xinyu FU](https://profiles.waikato.ac.nz/xinyu.fu))
 - [2024-08] Feel free to explore the [USTGZ Linguistic Landscape](https://Zeyun-Deng.github.io/USTGZ-linguistic-landscape.html) project integrating spatial analysis with linguistic education, led by [Prof. Claire Qingqing XING](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XING-Qingqing/claireqqxing), where I provided some technical assistance.
-
-  <!-- =================================================================== -->
-  <!-- ================  在这里粘贴你的个人介绍卡片代码  ================= -->
-  <!-- =================================================================== -->
-  <article id="intro-card" class="card-wrapper card mb-4">  <!--  <-- 看这里！添加了 id -->
-    <a href="{{ '/about/' | relative_url }}" class="post-preview row g-0 flex-md-row-reverse">
-      <div class="col-md-12">
-        <div class="card-body d-flex flex-column">
-          <h1 class="card-title my-2 mt-md-0">Back to Home Page for more blogs👋</h1>
-          <div class="card-text content mt-0 mb-3">
-            <p>
-				Curious? Click to learn more about my research, design, and journey.
-            </p>
-          </div>
-          <div class="post-meta flex-grow-1 d-flex align-items-end">
-            <div class="me-auto">
-              <i class="fas fa-user fa-fw me-1"></i> About Me
-            </div>
-          </div>
-        </div>
-      </div>
-    </a>
-  </article>
-  <!-- =================================================================== -->
-  <!-- =======================  个人介绍卡片代码结束  ====================== -->
-  <!-- =================================================================== -->
-
 
 ## Honors & Awards
 
@@ -93,5 +67,12 @@ As a dual National Scholarship recipient (2021, 2023) and winner of internationa
 - **Merit Student**, Harbin Institute of Technology, *2023, 2022, 2021 & 2020*
 - **1st Prize**, Freshman Yearly Project of Harbin Institute of Technology, *2020*
 
-> In my spare time, I enjoy creating digital artworks and leveraging my design skills in urban planning projects. I also relish outdoor activities such as hiking and urban exploration, which not only allow me to appreciate the beauty of natural and built environments but also provide inspiration for my urban planning projects.
+## Academic Skills
+
+*   **Languages**: English (TOEFL: 106, GRE: 319); Chinese (Native): Mandarin, Hakka, Cantonese
+*   **Scripting**: Proficient in Python, R, JavaScript – skilled in spatial analysis, LLM-based natural language processing, and data visualization.
+*   **Software**: Proficient in GIS related software and packages such as ArcGIS, GEE, GeoDa, CityEngine; Proficient in planning and design software such as Rhino, AutoCAD, Adobe Suite (Photoshop, Illustrator, InDesign, Premiere Pro), Lumion, Visio.
+*   **Research expertise**: Survey design, participant observation, semi-structured interviews, geo-database management, natural language processing.
+
+> In my spare time, I enjoy creating digital artworks and leveraging my design skills in urban planning projects. I also relish outdoor activities such as cycling, hiking and urban exploration, which not only allow me to appreciate the beauty of natural and built environments but also provide inspiration for my urban planning projects.
 {: .prompt-tip }

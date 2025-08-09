@@ -1,11 +1,11 @@
 /* _sass/custom/custom.scss */
 
 /* Override styles for the introduction card on the homepage */
-#intro-card .card-text {
-  max-height: none; /* 取消最大高度限制 */
-  overflow: visible; /* 显示溢出的内容 */
+// #intro-card .card-text {
+//   max-height: none; /* 取消最大高度限制 */
+//   overflow: visible; /* 显示溢出的内容 */
 
-//   /* 如果上面的代码不生效，说明主题用了更现代的方法，请用下面的代码替换 */
-//   display: block; /* 覆盖掉 -webkit-box */
-//   -webkit-line-clamp: unset; /* 取消行数限制 */
+  /* 如果上面的代码不生效，说明主题用了更现代的方法，请用下面的代码替换 */
+  display: block; /* 覆盖掉 -webkit-box */
+  -webkit-line-clamp: unset; /* 取消行数限制 */
 }

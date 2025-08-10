@@ -1,31 +1,36 @@
 /* _sass/custom/custom.scss */
 
-/* Override styles for the introduction card on the homepage */
-#intro-card .card-text {
-//   max-height: none; /* 取消最大高度限制 */
-//   overflow: visible; /* 显示溢出的内容 */
+/* 
+  自定义样式文件。
+  这里的所有代码都将被编译并加载到你的网站中。
+*/
 
-  /* 如果上面的代码不生效，说明主题用了更现代的方法，请用下面的代码替换 */
-  display: block; /* 覆盖掉 -webkit-box */
-  -webkit-line-clamp: unset; /* 取消行数限制 */
+/* 1. 修复个人介绍卡片文字截断问题 */
+#intro-card .card-text {
+  /* 覆盖掉现代浏览器使用的多行文本截断样式 */
+  display: block !important;
+  -webkit-line-clamp: unset !important;
+  
+  /* 同时确保旧的截断方式也被覆盖，以防万一 */
+  max-height: none !important;
+  overflow: visible !important;
 }
 
-// <!-- 建议将 <style> 里的 CSS 代码放入你的全局自定义样式文件 _sass/custom/custom.scss 中 -->
-<style>
-  /* 创建一个响应式的视频容器 */
-  .responsive-bilibili {
-    position: relative;
-    overflow: hidden;
-    width: 100%;
-    padding-top: 56.25%; /* 16:9 的宽高比 (9 / 16 = 0.5625) */
-  }
-  /* 让 iframe 填满整个容器 */
-  .responsive-bilibili iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border: 0; /* 移除 iframe 默认的边框 */
-  }
-</style>
+/* 2. 为 Bilibili 视频添加响应式样式 */
+/* 创建一个响应式的视频容器 */
+.responsive-bilibili {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 宽高比 */
+}
+
+/* 让 iframe 填满整个容器 */
+.responsive-bilibili iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}

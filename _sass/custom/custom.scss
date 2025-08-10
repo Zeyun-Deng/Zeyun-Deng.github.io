@@ -1,7 +1,7 @@
 /* _sass/custom/custom.scss */
 
 /* Override styles for the introduction card on the homepage */
-// #intro-card .card-text {
+#intro-card .card-text {
 //   max-height: none; /* 取消最大高度限制 */
 //   overflow: visible; /* 显示溢出的内容 */
 
@@ -9,3 +9,23 @@
   display: block; /* 覆盖掉 -webkit-box */
   -webkit-line-clamp: unset; /* 取消行数限制 */
 }
+
+// <!-- 建议将 <style> 里的 CSS 代码放入你的全局自定义样式文件 _sass/custom/custom.scss 中 -->
+<style>
+  /* 创建一个响应式的视频容器 */
+  .responsive-bilibili {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 的宽高比 (9 / 16 = 0.5625) */
+  }
+  /* 让 iframe 填满整个容器 */
+  .responsive-bilibili iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0; /* 移除 iframe 默认的边框 */
+  }
+</style>

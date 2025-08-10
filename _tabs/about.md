@@ -70,7 +70,7 @@ As a dual National Scholarship recipient (2021, 2023) and winner of internationa
 ## Academic Skills
 
 *   **Languages**: English (TOEFL: 106, GRE: 319); Chinese (Native): Mandarin, Hakka, Cantonese
-*   **Scripting**: Proficient in Python, R, JavaScript – skilled in spatial analysis, LLM-based natural language processing, and data visualization.
+*   **Scripting**: Proficient in Python, R, JavaScript, skilled in spatial analysis, LLM-based natural language processing, and data visualization.
 *   **Software**: Proficient in GIS related software and packages such as ArcGIS, GEE, GeoDa, CityEngine; Proficient in planning and design software such as Rhino, AutoCAD, Adobe Suite (Photoshop, Illustrator, InDesign, Premiere Pro), Lumion, Visio.
 *   **Research expertise**: Survey design, participant observation, semi-structured interviews, geo-database management, natural language processing.
 

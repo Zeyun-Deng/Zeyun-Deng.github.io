@@ -17,7 +17,7 @@ The "Verdant Exchange" project aims to address issues at the *Red Bird Makerspac
 ---
 
 “绿意盎然（Verdant Exchange）”项目旨在解决红鸟学创空间办公环境存在的空气质量差、空间布局不合理、交互性差和美感不足等问题。通过跨学科协作，采用模块化植物配置，开发智能小程序，并进行精心的UI设计。项目涵盖室内设计与服务设计，为用户提供多种绿植花卉选择。同时对项目的一次性投入和持续投入进行了详细预算分析，致力于打造绿色、智能、舒适的办公空间。项目现已在香港科技大学（广州）W1栋5楼完成施工。感谢我的队友席淼玮
-（智慧交通理学硕士研究生）和苏楠（创新、创业与公共政策理学硕士研究生），以及创客空间的管理员赵淑怡老师！
+（智能交通哲学硕士研究生）和苏楠（创新、创业与公共政策哲学硕士研究生），以及创客空间的管理员赵淑怡老师！
 
 - 🌿 **模块化植物配置**：特大模块净化空气，大模块增添美观，中模块用作隔断，小模块调节心情，分工明确。
 - 💻 **智能小程序**：方便选购绿植花卉，提供上期最佳、今日特供等多样选择，支持在线支付，配送到工位。
@@ -55,4 +55,7 @@ The "Verdant Exchange" project aims to address issues at the *Red Bird Makerspac
 
 本项目已在香港科技大学（广州）W1栋红鸟学创空间5楼完成施工。欢迎来访！
 
+![CRnall_20250330_144858843](https://Zeyun-Deng.github.io/assets/img/VerdantExchange/CRnall_20250330_144858843.jpg)
+![CRnall_20250330_144841884](https://Zeyun-Deng.github.io/assets/img/VerdantExchange/CRnall_20250330_144841884.jpg)
+![CRnall_20250330_144847538](https://Zeyun-Deng.github.io/assets/img/VerdantExchange/CRnall_20250330_144847538.jpg)
 

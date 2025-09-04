@@ -5,32 +5,40 @@
   这里的所有代码都将被编译并加载到你的网站中。
 */
 
-/* 1. 修复个人介绍卡片文字截断问题 */
+/* _sass/custom/custom.scss */
+
+/*
+ * 1. 修复个人介绍卡片文字被截断的问题
+ * ==========================================
+ * 这段代码的目标是覆盖掉主题中限制卡片文字行数的样式。
+ * #intro-card 是你在 home.html 中为卡片指定的唯一ID。
+ * !important 是为了确保我们的自定义样式有最高的优先级，能够成功覆盖主题的默认样式。
+*/
 #intro-card .card-text {
-  /* 覆盖掉现代浏览器使用的多行文本截断样式 */
   display: block !important;
   -webkit-line-clamp: unset !important;
-  
-  /* 同时确保旧的截断方式也被覆盖，以防万一 */
   max-height: none !important;
   overflow: visible !important;
 }
 
-/* 2. 为 Bilibili 视频添加响应式样式 */
-/* 创建一个响应式的视频容器 */
+/*
+ * 2. Bilibili 视频响应式容器
+ * ==========================================
+ * 这段代码创建了一个名为 .responsive-bilibili 的样式类。
+ * 当你将 <iframe> 包裹在这个类的 <div> 中时，它会自动适应屏幕宽度。
+*/
 .responsive-bilibili {
   position: relative;
   overflow: hidden;
   width: 100%;
-  padding-top: 56.25%; /* 16:9 宽高比 */
+  padding-top: 56.25%; /* 16:9 宽高比 (9 / 16 = 0.5625) */
 }
 
-/* 让 iframe 填满整个容器 */
 .responsive-bilibili iframe {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  border: 0;
+  border: 0; /* 移除 iframe 默认边框 */
 }

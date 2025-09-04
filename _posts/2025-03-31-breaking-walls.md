@@ -19,6 +19,17 @@ image:
   </iframe>
 </div>
 
+{%
+  include embed/video.html
+  src='/path/to/video.mp4'
+  types='ogg|mov'
+  poster='poster.png'
+  title='Demo video'
+  autoplay=true
+  loop=true
+  muted=true
+%}
+
 Cities worldwide face growing threats from climate change, socioeconomic shifts, and political instability. Yet, their resilience plans remain fragmented across formats, languages, and regions—making it nearly impossible to compare strategies or adopt proven solutions.  
 
 ![幻灯片2](https://Zeyun-Deng.github.io/assets/img/breaking-walls/幻灯片2.PNG)

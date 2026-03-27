@@ -8,27 +8,17 @@ image:
 ---
 
 <!-- 将视频放入这个响应式容器中 -->
-<div class="responsive-bilibili">
+<div style="position: relative; padding: 30% 45%; width: 100%; height: 0;">
   <iframe 
     src="//player.bilibili.com/player.html?bvid=BV1pLNEzXEVR&page=1&t=1567" 
     scrolling="no" 
     border="0" 
     frameborder="no" 
     framespacing="0" 
-    allowfullscreen="true">
+    allowfullscreen="true"
+    style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;">
   </iframe>
 </div>
-
-{%
-  include embed/video.html
-  src='/path/to/video.mp4'
-  types='ogg|mov'
-  poster='poster.png'
-  title='Demo video'
-  autoplay=true
-  loop=true
-  muted=true
-%}
 
 Cities worldwide face growing threats from climate change, socioeconomic shifts, and political instability. Yet, their resilience plans remain fragmented across formats, languages, and regions—making it nearly impossible to compare strategies or adopt proven solutions.  
 

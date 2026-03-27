@@ -4,7 +4,7 @@ date: 2023-07-11 00:00:00 +0800
 categories: [Research, ]
 tags: [wupen, competition] 
 image:
-  path: https://jason-deng-picgo.oss-cn-guangzhou.aliyuncs.com/obsidian/202404071619374.png
+  path: https://picgo-proxy.dengzeyun.workers.dev/obsidian/202404071619374.png
 ---
 
 This investigation takes women's fear of travel at night as the starting point.It Analyzed the characteristics of women's nocturnal behavior, the space-time and group differentiation of women's nocturnal fear, and the influencing factors of women's nocturnal fear. Put forward strategies to improve women's fear of night travel and suggestions for space optimization, so as to provide basic support for the follow-up promotion of the construction of women's friendly cities.
@@ -13,7 +13,7 @@ This investigation takes women's fear of travel at night as the starting point.I
 
 ## Pictures
 
-![image.png](https://jason-deng-picgo.oss-cn-guangzhou.aliyuncs.com/obsidian/202404071619374.png)
+![image.png](https://picgo-proxy.dengzeyun.workers.dev/obsidian/202404071619374.png)
 
 ![城市综合调研正图0712_最终排版_页面_01](https://Zeyun-Deng.github.io/assets/img/城市综合调研正图/0712_最终排版_页面_01.png)
 ![城市综合调研正图0712_最终排版_页面_02](https://Zeyun-Deng.github.io/assets/img/城市综合调研正图/0712_最终排版_页面_02.png)

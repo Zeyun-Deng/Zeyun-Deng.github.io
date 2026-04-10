@@ -4,11 +4,13 @@ date: 2025-04-09 19:30:00 +0800
 categories: [Blog, News]
 tags: [discussion] 
 image:
-  path: https://Zeyun-Deng.github.io/assets/img/Gemini_Generated_Image_ibb4g0ibb4g0ibb4.png
+  path: https://Zeyun-Deng.github.io/assets/img/留学经验分享会/Gemini_Generated_Image_ibb4g0ibb4g0ibb4.png
 ---
 
-**Trade-offs, Failures, and Uncertainty | 真实的权衡、失败与不确定性
+**Trade-offs, Failures, and Uncertainty · 真实的权衡、失败与不确定性
 **
+
+---
 
 今年拿到了荷兰乌德勒支大学（Utrecht University）的博士offer，研究方向是用Agent-Based Modeling模拟城市环境对居民出行行为和健康的影响。
 

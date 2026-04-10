@@ -7,9 +7,7 @@ image:
   path: https://picgo-proxy.dengzeyun.workers.dev/economist_style_etf_v2.png
 ---
 
-# 产业升级正在抛弃大多数人
-
-**AI、资本与就业的三重困局**
+**The triple dilemma of AI, capital, and employment | AI、资本与就业的三重困局**
 
 ---
 

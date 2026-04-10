@@ -7,8 +7,7 @@ image:
   path: https://Zeyun-Deng.github.io/assets/img/留学经验分享会/Gemini_Generated_Image_ibb4g0ibb4g0ibb4.png
 ---
 
-**Trade-offs, Failures, and Uncertainty · 真实的权衡、失败与不确定性
-**
+**Trade-offs, Failures, and Uncertainty · 真实的权衡、失败与不确定性**
 
 ---
 

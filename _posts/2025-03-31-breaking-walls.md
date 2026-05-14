@@ -1,5 +1,5 @@
 ---
-title: 'Breaking the Wall of Urban Resilience Barriers: AI-Powered Policy Innovation'
+title: 'Breaking the Wall of Urban Resilience Barriers: Data-Driven Policy Innovation'
 date: 2025-03-31 00:00:00 +0800
 categories: [Research, ]
 tags: [] 
@@ -24,15 +24,15 @@ Cities worldwide face growing threats from climate change, socioeconomic shifts,
 
 ![幻灯片2](https://Zeyun-Deng.github.io/assets/img/breaking-walls/幻灯片2.PNG)
 
-## **Introducing the Resilient City Knowledge Graph (RCKG)**  
+## **Introducing the Resilient City Comparative Framework (RCCF)**  
 
 ![幻灯片3](https://Zeyun-Deng.github.io/assets/img/breaking-walls/幻灯片3.PNG)
 
-Our AI-driven platform transforms this chaos into clarity. By integrating Large Language Models (LLMs) and a dynamic knowledge graph, RCKG automates the analysis of multi-modal urban resilience data—from policy documents to environmental reports. It uncovers hidden patterns, identifies global-local synergies, and recommends actionable strategies tailored to each city’s unique challenges.  
+Our data-driven platform transforms this chaos into clarity. By integrating structured policy analysis and comparative urban frameworks, RCCF systematizes the analysis of multi-modal urban resilience data—from policy documents to environmental reports. It uncovers hidden patterns, identifies global-local synergies, and recommends actionable strategies tailored to each city’s unique challenges.  
 
 ## **Why It Matters**  
 
-- **96% Faster Policy Analysis**: Extracted 1,635 heat adaptation policies from 370,000+ characters of urban planning texts, slashing manual review time by 96%.  
+- **Systematic Policy Analysis**: Extracted 1,635 heat adaptation policies from 370,000+ characters of urban planning texts, enabling comprehensive cross-city comparison.  
 - **Global Insights, Local Action**: Revealed how Chicago, New York, and London align low-carbon goals, enabling cross-city learning.  
 - **Science-Backed**: Presented at ACSP 2024 and under review in *Environment and Planning B: Urban Analytics and City Science* (IF=3.1).  
 
@@ -45,7 +45,7 @@ Our AI-driven platform transforms this chaos into clarity. By integrating Large 
 
 ![幻灯片8](https://Zeyun-Deng.github.io/assets/img/breaking-walls/幻灯片8.PNG)
 
-Cities no longer need to reinvent the wheel. With RCKG, policymakers gain a unified framework to benchmark progress, replicate successes, and build future-proof communities.  
+Cities no longer need to reinvent the wheel. With RCCF, policymakers gain a unified framework to benchmark progress, replicate successes, and build future-proof communities.  
 
 *Let’s break the wall of data silos and build cities that thrive amid uncertainty.*  
 

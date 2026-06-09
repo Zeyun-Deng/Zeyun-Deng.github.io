@@ -32,7 +32,7 @@ As a dual National Scholarship recipient (2021, 2023) and winner of internationa
 {: .prompt-tip }
 
 - [2025-07] I have the opportunity to share my research **Comparative analysis of urban resilience plans** in the 19th IACP ([International Association for China Planning](https://www.china-planning.org/alpha/annual-conference/)) held at [Xiamen University - 厦门大学](https://www.xmu.edu.cn/index.htm).
-- [2025-01] I passed PQA (Proposal Qualification Assessment) for my individual project titled *Resilient City: Comparative Analysis and Policy Making* at HKUST(GZ). The individual project is part of the red bird educational group project *Urban Data Analytics for Policy Insights* with groupmates.
+- [2025-01] I passed PQA (Proposal Qualification Assessment) for my individual project titled *Resilient City: Comparative Analysis and Policy Making* at HKUST(GZ).
 - [2024-12] My project [Verdant Exchange](https://zeyun-deng.github.io/posts/VerdantExchange/), aiming at transformming the *Red Bird Makerspace* into a green paradise, its construction has already been completed on the 5th floor of W1 Building in HKUST(GZ). Thanks for my teammates Miaowei XI (MPhil Student in Intelligent Transporation) and Nan SU (MPhil Student in Innovation, Public Policy and Entrepreneurship), as well as the manager of makerspace Shuyi ZHAO!
 - [2024-11] My research *Assessing urban heat resilience plans* is presented at ACSP2024 (Association of Collegiate Schools of Planning 2024 Conference), Minnesoda!
 - [2024-08] Feel free to explore the [USTGZ Linguistic Landscape](https://Zeyun-Deng.github.io/USTGZ-linguistic-landscape.html) project integrating spatial analysis with linguistic education, led by [Prof. Claire Qingqing XING](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XING-Qingqing/claireqqxing), where I provided some technical assistance.
@@ -69,7 +69,6 @@ As a dual National Scholarship recipient (2021, 2023) and winner of internationa
 ## Academic Skills
 
 *   **Languages**: English (TOEFL: 106, GRE: 319); Chinese (Native): Mandarin, Hakka, Cantonese
-*   **Scripting**: Proficient in Python, R, JavaScript, skilled in spatial analysis, data processing, and data visualization.
 *   **Software**: Proficient in GIS related software and packages such as ArcGIS, GEE, GeoDa, CityEngine; Proficient in planning and design software such as Rhino, AutoCAD, Adobe Suite (Photoshop, Illustrator, InDesign, Premiere Pro), Lumion, Visio.
 *   **Research expertise**: Survey design, participant observation, semi-structured interviews, geo-database management, policy text analysis.
 
